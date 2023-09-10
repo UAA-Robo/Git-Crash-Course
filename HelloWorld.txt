@@ -1,3 +1,17 @@
 Hello World!
-
 Hello From Mya :)
+
+This is a change!
+
+Clone Repo
+git clone repo-name
+
+Create New Branch
+git branch -b branch name
+
+View Branches
+git branch -a
+
+
+
+
